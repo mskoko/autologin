@@ -1,2 +1,2 @@
 # autologin_php
-AutoLogin by www.mskoko.me
+Auto Login by www.mskoko.me
