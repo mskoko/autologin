@@ -1,2 +1,4 @@
 # autologin_php
-Auto Login by www.mskoko.me
+Auto Login by Mskoko.me
+
+uskoro simple script :)
